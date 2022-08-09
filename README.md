@@ -5,3 +5,5 @@
 ## DATOS PERSONALES ##
 **NOMBRES:** Emanuel Jesús
 **APELLIDOS:** Obredor Vasquez
+**FECHA DE NACIMIENTO:** 09/22/2004
+**LUGAR DE NACIMIENTO:** Barranquilla, Átlantico

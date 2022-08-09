@@ -26,3 +26,8 @@
 **MEDIA VOCACIONAL:**  
 - Escuela Normal Superior "La Hacienda"
 ## TÍTULOS OBTENIDOS
+- Bachiller con Profundización en Pedagogía
+## INTERESESES Y HOBBIES ##
+- Música
+- Escritura Creativa
+- Viajar 

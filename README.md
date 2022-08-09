@@ -19,8 +19,10 @@
 - Institución Educativa Distrital Pestalozzi
 - Institución Educativa Distrital Meira Delmar
 - Escuela Normal Superior "La Hacienda"  
+
 **BÁSICA SECUNDARIA:**
-- Escuela Normal Superior "La Hacienda"
-**MEDIA VOCACIONAL:**
+- Escuela Normal Superior "La Hacienda"  
+
+**MEDIA VOCACIONAL:**  
 - Escuela Normal Superior "La Hacienda"
 ## TÍTULOS OBTENIDOS
